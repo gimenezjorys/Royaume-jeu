@@ -2,7 +2,7 @@
 
 Le jeu, en un seul fichier (`index.html`), pour y jouer dans le navigateur, sur téléphone ou sur ordinateur :
 
-**https://gimenezjorys.github.io/royaume-jeu/**
+**https://gimenezjorys.github.io/Royaume-jeu/**
 
 Tiens le téléphone en largeur. Pour l'avoir comme une appli : dans Safari, Partager puis « Sur l'écran d'accueil » ; dans Chrome, le menu puis « Ajouter à l'écran d'accueil ».
 
